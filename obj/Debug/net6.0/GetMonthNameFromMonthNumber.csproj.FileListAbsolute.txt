@@ -1,0 +1,15 @@
+/home/saint/Desktop/GetMonthNameFromMonthNumber/bin/Debug/net6.0/GetMonthNameFromMonthNumber
+/home/saint/Desktop/GetMonthNameFromMonthNumber/bin/Debug/net6.0/GetMonthNameFromMonthNumber.deps.json
+/home/saint/Desktop/GetMonthNameFromMonthNumber/bin/Debug/net6.0/GetMonthNameFromMonthNumber.runtimeconfig.json
+/home/saint/Desktop/GetMonthNameFromMonthNumber/bin/Debug/net6.0/GetMonthNameFromMonthNumber.dll
+/home/saint/Desktop/GetMonthNameFromMonthNumber/bin/Debug/net6.0/GetMonthNameFromMonthNumber.pdb
+/home/saint/Desktop/GetMonthNameFromMonthNumber/obj/Debug/net6.0/GetMonthNameFromMonthNumber.csproj.AssemblyReference.cache
+/home/saint/Desktop/GetMonthNameFromMonthNumber/obj/Debug/net6.0/GetMonthNameFromMonthNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/GetMonthNameFromMonthNumber/obj/Debug/net6.0/GetMonthNameFromMonthNumber.AssemblyInfoInputs.cache
+/home/saint/Desktop/GetMonthNameFromMonthNumber/obj/Debug/net6.0/GetMonthNameFromMonthNumber.AssemblyInfo.cs
+/home/saint/Desktop/GetMonthNameFromMonthNumber/obj/Debug/net6.0/GetMonthNameFromMonthNumber.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/GetMonthNameFromMonthNumber/obj/Debug/net6.0/GetMonthNameFromMonthNumber.dll
+/home/saint/Desktop/GetMonthNameFromMonthNumber/obj/Debug/net6.0/refint/GetMonthNameFromMonthNumber.dll
+/home/saint/Desktop/GetMonthNameFromMonthNumber/obj/Debug/net6.0/GetMonthNameFromMonthNumber.pdb
+/home/saint/Desktop/GetMonthNameFromMonthNumber/obj/Debug/net6.0/GetMonthNameFromMonthNumber.genruntimeconfig.cache
+/home/saint/Desktop/GetMonthNameFromMonthNumber/obj/Debug/net6.0/ref/GetMonthNameFromMonthNumber.dll
